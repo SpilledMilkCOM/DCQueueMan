@@ -2,7 +2,7 @@
 
 A template for Dave's queue manager.  I'm a **HUGE** DC fan, so this sounds like a new super hero. "Queue Man" or "Queueman" *(sounds like human)**.
 
-![Welcome Template](https://github.com/SpilledMilkCOM/DCQueueMan/docs/Template.png)
+![Welcome Template](https://github.com/SpilledMilkCOM/DCQueueMan/tree/master/docs/Template.png)
 
 ## Getting Started
 
