@@ -1,10 +1,10 @@
-# DCQueueMan
+# 🦸‍♂️DCQueueMan
 
 A template for Dave's queue manager.  I'm a **HUGE** DC fan, so this sounds like a new super hero. "Queue Man" or "Queueman" *(sounds like human)**.
 
 ![Welcome Template](docs/Template.png)
 
-## Getting Started
+## :runner: Getting Started
 
 * `dotnet new mvc` - Creates the template using the name of the current directory as the project name.
 * `dotnet run` - Runs the app and hosts on `localhost` which will display when you run.
@@ -15,3 +15,4 @@ For now this is just an MVC app so the code and endpoints can be easily tested a
 
 * [dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Emojis](https://www.webfx.com/tools/emoji-cheat-sheet)
